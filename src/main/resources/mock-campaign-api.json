@@ -1,0 +1,20 @@
+[
+  {
+    "id": "123bcd45",
+    "name": "Campaign #1",
+    "price": 0.45,
+    "targetedCountries": [
+      "USA",
+      "GBR"
+    ]
+  },
+  {
+    "id": "789abc01",
+    "name": "Campaign #2",
+    "price": 2.21,
+    "targetedCountries": [
+      "GRC",
+      "BRA"
+    ]
+  }
+]
